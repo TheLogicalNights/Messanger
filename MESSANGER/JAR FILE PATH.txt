@@ -1,0 +1,9 @@
+First change System path to your parent dir path from command prompt
+cd C:\Users\Hp\Desktop\chatapp
+then hit following commands on cmd.
+--------------------------------------------------------------------------------------------------------------------------------------
+1) Server JAR FILE---jar -cfvm Server.jar Manifest1.txt MyServer.class MyThread.class----
+---------------------------------------------------------------------------------------------------------------------------------------
+2) Client JAR FILE----jar -cfvm Client.jar Manifest2.txt MyClient.class ClientThread.class MyClient$1.class MyClient$1.class
+ MyClient$2.class MyClient$3.class MyClient$4.class MyClient$5.class MyClient$6.class----
+----------------------------------------------------------------------------------------------------------------------------------------
